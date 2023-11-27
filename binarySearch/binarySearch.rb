@@ -32,3 +32,4 @@ def binary_search(arr, x)
   else
     puts "Elemento não está presente no array"
   end
+  <h1>Binary Search</h1>
